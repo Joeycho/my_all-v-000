@@ -9,6 +9,3 @@ def my_all?(collection)
   end
   yieldreturn
 end
-
-
-
